@@ -1,0 +1,11 @@
+{
+  "homepage": "https://modrinth.com/mod/hbm-nuclear-horizons",
+  "promoted": {
+    "1.21.1-latest": "0.1.0-alpha",
+    "1.21.1-recommended": "0.1.0-alpha"
+  },
+  "1.21.1": {
+    "0.1.0-alpha": "Pierwsza wersja Alpha - dodano podstawy systemu radiacji i model Tsar Bomba.",
+    "0.2.0": "Lista zmian w nowszej wersji..."
+  }
+}
