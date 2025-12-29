@@ -5,8 +5,7 @@
     "1.21.1-recommended": "0.1.0-alpha"
   },
   "1.21.1": {
-    "0.1.0-alpha": "Initial Alpha Release of HBM Nuclear Horizons",
-    "0.2.0": "Fixes and improvements"
+    "0.1.0-alpha": "...",
   },
   "inherit": true
 }
