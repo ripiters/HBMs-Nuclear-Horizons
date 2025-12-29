@@ -5,7 +5,7 @@
     "1.21.1-recommended": "0.1.0-alpha"
   },
   "1.21.1": {
-    "0.1.0-alpha": "...",
+    "0.1.0-alpha": "..."
   },
   "inherit": true
 }
