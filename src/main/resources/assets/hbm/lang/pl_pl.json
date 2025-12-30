@@ -1,0 +1,13 @@
+{
+  "itemGroup.hbm": "Example Mod Tab",
+  "block.hbm.example_block": "Example Block",
+  "item.hbm.example_item": "Example Item",
+
+  "hbm.configuration.title": "HBM's Nuclear Horizons Configs",
+  "hbm.configuration.section.hbm.common.toml": "HBM's Nuclear Horizons Configs",
+  "hbm.configuration.section.hbm.common.toml.title": "HBM's Nuclear Horizons Configs",
+  "hbm.configuration.items": "Item List",
+  "hbm.configuration.logDirtBlock": "Log Dirt Block",
+  "hbm.configuration.magicNumberIntroduction": "Magic Number Text",
+  "hbm.configuration.magicNumber": "Magic Number"
+}
