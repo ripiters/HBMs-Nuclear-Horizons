@@ -30,8 +30,8 @@ import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
-@Mod(HBMsNuclearHorizons.MODID)
-public class HBMsNuclearHorizons {
+@Mod(com.hbm.NuclearHorizons.MODID)
+public class NuclearHorizons {
     public static final String MODID = "hbm";
     public static final Logger LOGGER = LogUtils.getLogger();
 
@@ -53,7 +53,7 @@ public class HBMsNuclearHorizons {
                 output.accept(EXAMPLE_ITEM.get());
             }).build());
 
-    public HBMsNuclearHorizons(IEventBus modEventBus, ModContainer modContainer) {
+    public NuclearHorizons(IEventBus modEventBus, ModContainer modContainer) {
         modEventBus.addListener(this::commonSetup);
 
         BLOCKS.register(modEventBus);
