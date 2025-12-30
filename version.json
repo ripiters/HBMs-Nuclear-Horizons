@@ -1,11 +1,7 @@
 {
   "homepage": "https://modrinth.com/mod/hbm-nuclear-horizons",
-  "promotions": {
+  "promos": {
     "1.21.1-latest": "0.1.0-alpha",
     "1.21.1-recommended": "0.1.0-alpha"
-  },
-  "1.21.1": {
-    "0.1.0-alpha": "..."
-  },
-  "inherit": true
+  }
 }
